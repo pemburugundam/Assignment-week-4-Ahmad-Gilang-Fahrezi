@@ -37,13 +37,6 @@ Oleh karenanya kamu berinisiatif untuk menggunakan Git, lalu langkah yang kamu l
 13. gabungkan branch `cv` ke dalam branch `master` menggunakan perintah `git merge`
 14. unggah Git Repository project tersebut tersebut ke dalam GitHub
 
-## Expected Result
-Untuk mengetahui apakah pekerjaan yang kalian buat sudah sesuai atau tidak, kalian dapat menggunakan perintah `git log --graph` untuk menampilkan grafik dari repository kita.
-> Kalian cukup memperhatikan bentuk dari grafik tersebut, karna setiap repository memiliki `hash` atau `author` yang berbeda-beda
-
-
-![skilvul](https://skilvul-prod-01.s3.ap-southeast-1.amazonaws.com/lesson/full-stack-assignment/git-n-github-01.png)
-
 ## Key Learning Points
 - peserta dapat menggunakan perintah-perintah git
 - peserta mampu menggunakan `git branch`
