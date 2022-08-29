@@ -18,21 +18,12 @@ Now that you have learned the basics of Git workflow, try running through this a
 
 ## Jawaban
 
-| ![Screenshot 1](./2022-07-04_165246.jpg) |
-|:--:| 
-| *command 1 - 6* |
-
 1. `mkdir git-basic`
 2. `cd git-basic\`
 3. `echo > first.txt`
 4. `git init`
 5. `git add first.txt`
 6. `git commit -m "adding first.txt"`
-
-| ![Screenshot 2](./2022-07-04_165645.jpg) |
-|:--:| 
-| *command 7 - 13* |
-
 7. `git log`
 8. `echo > second.txt`
 9. `git add second.txt`
@@ -40,9 +31,4 @@ Now that you have learned the basics of Git workflow, try running through this a
 11. `del first.txt`
 12. `git add -A`
 13. `git commit -m "removing first.txt"`
-
-| ![Screenshot 3](./2022-07-04_170044.jpg) |
-|:--:| 
-| *command 14* |
-
 14. `git log`
